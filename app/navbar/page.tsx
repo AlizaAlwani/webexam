@@ -36,7 +36,7 @@ const Navbar = () => {
 
                 <div className=' ml-[350px]'>
                     <div className='flex flex-row '>
-                    <div className='w-[650px] h-[250px] mt-[100px] flex flex-col gap-y-7'>
+                    <div className='w-[650px] h-[250px] mt-[100px] flex flex-col gap-y-'>
                         <div className='flex flex-col mt-[40px]  ml-[30px] gap-y-3'>
                             <div className='text-6xl font-bold text-[#4D4D4D]'>Lessons and insights </div>
                             <div className='text-6xl font-bold text-[#4CAF4F] '>from 8 years</div>
@@ -57,7 +57,6 @@ const Navbar = () => {
                        
 
                     
-                </div>
                 </div>
             </div>
             </div>
@@ -113,6 +112,7 @@ const Navbar = () => {
                     </div>
 
                 </div>
+            </div>
             </div>
 
 
